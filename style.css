@@ -1,0 +1,13 @@
+body { background: #89d784; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 30px; display: flex; }
+.block-notify-0 { color: #ea07b5; font-size: 18px; margin-bottom: 5px; }
+.block-router-1 { color: #61ee02; font-size: 20px; margin-bottom: 5px; }
+.block-search-2 { color: #f16756; font-size: 18px; margin-bottom: 5px; }
+.block-email-3 { color: #63ca13; font-size: 20px; margin-bottom: 5px; }
+.block-email-4 { color: #9672e0; font-size: 18px; margin-bottom: 5px; }
+.block-sms-5 { color: #da5aa; font-size: 15px; margin-bottom: 5px; }
+.block-token-6 { color: #101654; font-size: 18px; margin-bottom: 5px; }
+.block-invoice-7 { color: #e4db23; font-size: 18px; margin-bottom: 5px; }
+.block-notify-8 { color: #d1b3d0; font-size: 19px; margin-bottom: 5px; }
+.block-validator-9 { color: #cdffc8; font-size: 19px; margin-bottom: 5px; }
+.block-helper-10 { color: #cdeb3a; font-size: 16px; margin-bottom: 5px; }
